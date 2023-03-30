@@ -1,10 +1,25 @@
-<p align="center">
-  <img width="150" height="150" src="https://github.com/nas-ts/nasts-core/blob/master/readme_assets/logo.png?raw=true">
-</p>
+<div
+	style="display: flex; align-items: center; justify-content: center; padding: 10px;"
+>
+	<img
+		width="150"
+		height="150"
+		src="https://github.com/nas-ts/nasts-core/blob/master/readme_assets/logo.png?raw=true"
+		style="vertical-align: middle;"
+	>
+	<div style="margin-left: 30px; display: flex; flex-direction: column;">
+	<p style="font-weight: bold; font-size: 42px; margin: 0">
+		nasts
+	</p>
+	<p style="margin: 0;">
+		Strong typing. Strong backend.
+	</p>
+	</div>
+</div>
 
-<h1 align="center">
-  @nasts/cli
-</h1>
+---
+
+<br />
 
 <div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;">
 
@@ -19,6 +34,8 @@
   <img style="padding: 5px;" alt="Libraries.io dependency status for latest release, scoped npm package" src="https://img.shields.io/librariesio/release/npm/@nasts/cli?style=plastic">
 
 </div>
+
+<br />
 
 `@nasts/cli` is a command line interface package that provides a quick and easy way to set up a new web project using the `@nasts/core` package. With just a few simple commands, you can create a new project, configure your settings, and start building right away.
 
