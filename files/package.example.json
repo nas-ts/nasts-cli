@@ -1,6 +1,6 @@
 {
   "name": "project-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a nasts project",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,6 +12,6 @@
   "author": "A nasts user",
   "license": "ISC",
   "dependencies": {
-    "@nasts/core": "^1.0.9"
+    "@nasts/core": "^1.1.0"
   }
 }
