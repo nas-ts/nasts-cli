@@ -1,0 +1,17 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "description": "This is a nasts project",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "start": "nasts start",
+    "build": "nasts build",
+    "test": "nasts test"
+  },
+  "author": "A nasts user",
+  "license": "ISC",
+  "dependencies": {
+    "@nasts/core": "^1.0.9"
+  }
+}
